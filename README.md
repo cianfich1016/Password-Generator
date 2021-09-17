@@ -10,7 +10,10 @@ Confirm boxes then follow in which the user can either click "OK" or "Cancel" to
 
 Once every box has been answered, a password is randomly generated based on the user input.
 
-![The webpage displays a password application that generates a random string of characters based on user input and choices.](Develop/Password-Generator.mp4)
+![The webpage displays an image of a user generated password based on input and confirmations.](Develop/PG-image.png)
+
+Click link below to view full video. https://drive.google.com/file/d/1JexvXtlHC50AfqdkmXoZ0UMkCyedTVQA/view
+
 
 ## Deployment Access
 
@@ -20,7 +23,7 @@ Once every box has been answered, a password is randomly generated based on the 
 
 Library can be found at the following link.
 
-https://github.com/cianfich1016/Horiseon-Marketing-Refactor
+
 
 Initial code borrowed from Trilogy Education Services.
 
