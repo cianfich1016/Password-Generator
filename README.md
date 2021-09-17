@@ -9,3 +9,5 @@ Upon the opening of this webpage a "Generate Password" button exists which begin
 Confirm boxes then follow in which the user can either click "OK" or "Cancel" to in terms of including special characters, numbers, lowercase letters and uppercase letters. "OK" signifies yes to including them and "Cancel" signifies no. Should the user click "Cancel" to all given options, an alert arises to inform him or her that at least one type of character must be selected, and the confirm boxes begin again.
 
 Once every box has been answered, a password is randomly generated based on the user input.
+
+
