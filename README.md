@@ -17,13 +17,13 @@ Click link below to view full video. https://drive.google.com/file/d/1JexvXtlHC5
 
 ## Deployment Access
 
-
+https://cianfich1016.github.io/Password-Generator/
 
 ## License
 
 Library can be found at the following link.
 
+https://github.com/cianfich1016/Password-Generator
 
-
-Initial code borrowed from Trilogy Education Services.
+Starter code borrowed from Trilogy Education Services.
 
