@@ -36,12 +36,16 @@ function generatePassword(){
   // Confirm boxes for user to choose what kinds of characters to select. If user chooses none, an alert allows them to start over and make sure one is selected. While loop continues until at least one kind of character is selected.
   while ((specialCharacters !== true) && (numbers !== true) && (lowercase !== true) && (uppercase !== true)){
     var specialCharacters = window.confirm("Click OK to include special characters and Cancel to not include.");
+   
     
     var numbers = window.confirm("Click OK to include numbers and Cancel to not include.");
+   
     
     var lowercase = window.confirm("Click OK to include lowercase letters and Cancel to not include.");
     
+    
     var uppercase = window.confirm("Click OK to include uppercase letters and Cancel to not include.");
+    
     
     if ((specialCharacters !== true) && (numbers !== true) && (lowercase !== true) && (uppercase !== true)){
       window.alert("You must select at least one type of character to include in your password. Click OK to see selection options again.")
@@ -65,6 +69,7 @@ function generatePassword(){
       passwordArray.push(uppercaseArray[Math.floor(Math.random()*uppercaseArray.length)])
     } 
   }
+  
   // Slice method allows a new array to be created that is the proper length using the characterLength variable specified by the user but ensuring that at least 1 of every character he or she requested is there.
   return passwordArray.slice(0, characterLength).join("")
 } 
