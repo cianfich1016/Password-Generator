@@ -12,6 +12,12 @@ Once every box has been answered, a password is randomly generated based on the 
 
 ![The webpage displays an image of a user generated password based on input and confirmations.](Develop/PG-image.png)
 
+![Example of alert with input.](Develop/PG2-image.png)
+
+![Example of a confirm prompt for user choice.](Develop/PG3-image.png)
+
+![Example of password generated.](Develop/PG4-image.png)
+
 Click link below to view full video. https://drive.google.com/file/d/1JexvXtlHC50AfqdkmXoZ0UMkCyedTVQA/view
 
 
